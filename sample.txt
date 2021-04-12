@@ -1,3 +1,5 @@
 sample
 Add 変更をindexに追加する
 Commit インデックスの状態を記録する
+Pull リモートレポジトリ の内容を取得する
+
