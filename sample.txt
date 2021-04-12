@@ -1,1 +1,2 @@
 sample
+Add 変更をindexに追加する
